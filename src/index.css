@@ -1,13 +1,8 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Belanosima&family=Caprasimo&family=Dancing+Script:wght@500&family=Inter:wght@300&family=Jost:ital,wght@0,200;0,300;0,400;0,500;1,200&family=Lexend&family=Lilita+One&family=Nanum+Gothic&family=Plus+Jakarta+Sans:wght@200;400;500&family=Poppins:ital,wght@0,300;0,400;0,600;1,600&family=Public+Sans&family=Roboto+Slab:wght@400;500&family=Roboto:wght@300;400&family=Rubik&family=Teko&family=Unbounded:wght@200;300;400;500&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
 }
